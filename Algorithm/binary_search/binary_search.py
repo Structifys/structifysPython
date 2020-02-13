@@ -5,7 +5,7 @@ def binary_search(target,arr):
     max = len(arr)-1
 
     while min <= max:
-        mid = min + (max-min)/2
+        mid = (min + (max-min))//2
         print(arr[min:max])
         if arr[mid]==target:
             return mid
