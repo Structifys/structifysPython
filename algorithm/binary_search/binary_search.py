@@ -1,11 +1,11 @@
 import math
-
+##this is a implement of binary_search
 def binary_search(target,arr):
     min = 0
     max = len(arr)-1
 
     while min <= max:
-        mid = math.floor((min+max)/2)
+        mid = (min + (max-min))//2
         print(arr[min:max])
         if arr[mid]==target:
             return mid
@@ -20,3 +20,6 @@ lista = [1,2,3,4,5,6,7,8,9,10]
 target = 4
 
 print(binary_search(target,lista))
+
+
+
