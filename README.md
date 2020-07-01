@@ -30,8 +30,8 @@
 ## Sorting
 
 - [ ] Bubble Sort
-- [ ] Selection Sort
-- [ ] Insertion Sort
+- [x] Selection Sort
+- [x] Insertion Sort
 - [x] Merge Sort
 - [ ] Quick Sort
 - [ ] Heap Sort
