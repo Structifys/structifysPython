@@ -16,7 +16,7 @@
 - [ ] Binary Search Tree (Set/Map)
 - [ ] Priority Queue
 - [ ] Disjoint Set
-- [ ] Graph
+- [x] Graph
 
 # Algorithms
 
@@ -40,7 +40,7 @@
 
 ## Graph Algorithms
 
-- [ ] DFS (Depth First Search)
+- [x] DFS (Depth First Search)
 - [ ] BFS (Breadth Firts Search)
 - [ ] Dijkstra
 - [ ] Topological Sort
